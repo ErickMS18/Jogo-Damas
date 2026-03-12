@@ -4,6 +4,12 @@ Implementação de um **jogo de Damas** em **Java com interface gráfica**, util
 
 O projeto demonstra conceitos importantes de desenvolvimento de software como **encapsulamento, herança, polimorfismo, manipulação de arquivos e arquitetura modular**.
 
+Proejeto desenvolvido por: 
+
+- Cecília Lucchesi Mardegan (usuário: [ceciLcchM](https://github.com/ceciLcchM))
+- Christine von Schmalz (usuário: [cvschmalz](https://github.com/cvschmalz))
+- Erick Maestri de Souza (usuário: [ErickMS18](https://github.com/ErickMS18))
+
 ---
 
 ## 🚀 Tecnologias e Conceitos
